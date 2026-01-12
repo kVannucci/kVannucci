@@ -1,5 +1,5 @@
 <h1 align="center">Olá, eu sou Kevinn Vannucci 🖐🏻</h1>
-<p align="center">Desenvolvedor Front-end | Apaixonado por tecnologia | Em constante evolução 🚀</p>
+<p align="center">Desenvolvedor Full-Stack | Apaixonado por tecnologia | Em constante evolução 🚀</p>
 
 ---
 
