@@ -22,8 +22,6 @@ Desenvolvedor Backend focado em APIs, integrações, automações com IA e siste
 
 Atualmente trabalho com TypeScript, NestJS, PostgreSQL, mensageria, Docker, cloud e desenvolvimento de soluções para operações de saúde.
 
-Também estou construindo um CRM próprio como cofundador e CTO da Kairo Consultoria.
-
 ---
 
 ## Tecnologias
